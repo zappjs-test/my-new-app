@@ -1,0 +1,7 @@
+app: {}
+components:
+  header:
+    props:
+      title:
+        type: string
+        state: page.title
